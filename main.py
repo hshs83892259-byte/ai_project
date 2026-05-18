@@ -7,4 +7,4 @@ if st.button('응디'):
 st.info('하이요')
 st.warning('b+ 이것을 좋아하시나봐요')
 st.error('tlqkf')
-st.baiioons
+st.balloons()
