@@ -100,3 +100,21 @@ for idx, place in enumerate(places, start=1):
     st.markdown("---")
 ```
 
+# requirements.txt
+
+```txt
+streamlit
+folium
+streamlit-folium
+```
+
+# 실행 방법
+
+1. app.py 파일 생성
+2. requirements.txt 파일 생성
+3. GitHub 업로드
+4. Streamlit Cloud에서 배포
+
+공식 사이트:
+
+* Streamlit Cloud: [https://streamlit.io/cloud](https://streamlit.io/cloud)
